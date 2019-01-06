@@ -4,6 +4,7 @@
 ### Key Deliverables: ###
 - **airbnb_seattle.ipynb** - Jupyter Notebook with technical data manipulation and analysis.
 - **Airbnb Seattle Blog Post.ipynb** - Jupyter Notebook for the non-technical blog post.
+    - HTML view of blog post is [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/stannnman/airbnb/master/Airbnb%20Seattle%20Blog%20Post.html)
 
 ### Libraries Used ###
 - **numpy** and **pandas** for data manipulation
