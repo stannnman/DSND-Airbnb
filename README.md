@@ -21,7 +21,7 @@ This project seeks to answer the following business questions:
 - What factors can influence the price of an Airbnb listing?
 
 ### Conclusion: ###
-- Five most expensive neighbourhoods are Magnolia, Downtown, Queen Anne, Cascade and Ballard.
+- Five most expensive neighbourhoods are Magnolia, Queen Anne, Downtown, West Seattle and Cascade.
 - Most expensive period is Jul-Aug, with most expensive date in 2016 being 1st July.
 - Factors that influence the price are how many people the property can accommodate, how far west it is located and the number of properties the host manages.
 
