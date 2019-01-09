@@ -9,7 +9,7 @@
 ### Libraries Used ###
 - **numpy** and **pandas** for data manipulation
 - **matplotlib** and **seaborn** for data viz
-- **sklearn** for data normalisation
+- **sklearn** for data normalisation and imputation of missing values
 
 ### Motivation ###
 As a keen traveller who has never been to Seattle, I see this project as an opportunity to learn about the city before my first visit.
